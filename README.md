@@ -4,7 +4,7 @@ A Bukkit server implementation on common mod loaders. Now an Pterodactyl egg!
 
 ![Downloads count](https://img.shields.io/github/downloads/JTDMedia/arclight-egg-pterodactyl/total?style=flat-square)  ![License](https://img.shields.io/github/license/JTDMedia/arclight-egg-pterodactyl?style=flat-square)
 
-![Logo](arclightlogo.jpg)
+![Logo](https://raw.githubusercontent.com/IzzelAliz/Arclight/refs/heads/FeudalKings/.github/arclightlogo.jpg)
 
 ## Download
 
